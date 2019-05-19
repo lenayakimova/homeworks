@@ -1,0 +1,53 @@
+h1{
+	margin-bottom: 30px;
+ }
+ h3{
+ 	margin-bottom: 23px;
+ }
+
+.box_fist{
+	width: 1010px;
+	height: 503px;
+	margin: auto;
+	border:solid 2px #e4e4e4;
+}
+
+.K1{
+	vertical-align: middle;
+	margin: 64px 100px 64px 48px;
+	display: inline-block;
+	width: 376px;
+	height: 375px;
+}
+.fist{
+	vertical-align: middle;
+	display: inline-block;
+	width: 430px;
+	height: 360px;
+}
+
+.text_1{
+	margin-bottom: 50px;
+}
+.cost{
+	margin-bottom: 56px;
+}
+
+
+.button{
+	margin: 0;
+	background: #ec744a;
+ 	color: #FFFFFF;
+ 	display: block;
+ 	width: 252px;
+ 	text-decoration: none;
+ 	text-align: center;
+ 	text-transform: uppercase;
+ 	font-weight: bold;
+ 	font-size: 14pt;
+ 	border: 2px solid #ef8762;
+ 	padding: 12px;
+}
+.button:hover {
+	background: #EC564A;
+}
