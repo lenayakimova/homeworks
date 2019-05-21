@@ -1,0 +1,97 @@
+body {
+	font-family: sans-serif;
+	color: #32325f;
+}
+
+.header {
+	background-color: #f4f5f7;
+	padding-top: 74px;
+	padding-bottom: 191px;
+}
+
+.navbar-brand {
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #95989a;
+}
+
+.social img {
+	margin-right: 20px;
+}
+
+.main {
+	margin-top: 159px;
+}
+
+.subtitle {
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 15px;
+}
+
+.title {
+	font-size: 48px;
+	font-weight: 700;
+	margin-bottom: 16px;
+}
+
+.description {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 26px;
+	margin-bottom: 16px;
+}
+
+.price-tag {
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+
+.price {
+	font-size: 48px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.about {
+	margin-top: 90px;
+	margin-bottom: 131px;
+}
+
+.about-text {
+	margin-top: 99px;
+}
+
+.about-text p {
+	margin-top: 40px;
+	font-size: 16px;
+	font-weight: 400;
+	color: #525f7f;
+}
+
+.footer {
+	padding-top: 78px;
+	padding-bottom: 104px;
+	color: #fff;
+	background-color: #32325f;
+}
+
+.info {
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.info-2 {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.sss {
+	font-size: 16px;
+	font-weight: 700;
+	display: block;
+	color: #fff;
+}
+
